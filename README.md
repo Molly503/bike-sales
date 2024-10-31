@@ -20,11 +20,12 @@ The data consists of 60,398 records across multiple attributes:
 	•	Jupyter Notebook: Data exploration and documentation.
 
 **Key Analysis and Findings**
+
 	**1.	Product Category Sales:**
 	•	Focused analysis on bike categories: Road Bikes, Mountain Bikes, and Touring Bikes.
 	•	Generated total sales amount per category, revealing that Road Bikes have the highest sales, followed by Mountain Bikes and Touring Bikes.
  
-**2.	Accessory Sales:**
+	**2.	Accessory Sales:**
 	•	Analyzed non-bike accessories such as Helmets, Jerseys, Gloves, and other items.
 	•	Created a bar chart visualization to show sales performance across accessory categories, identifying Helmets and Tires and Tubes as the top-selling accessory products.
  
