@@ -21,23 +21,23 @@ The data consists of 60,398 records across multiple attributes:
 
 **Key Analysis and Findings**
 
-	**1.	Product Category Sales:**
+	1.	Product Category Sales:
 	•	Focused analysis on bike categories: Road Bikes, Mountain Bikes, and Touring Bikes.
 	•	Generated total sales amount per category, revealing that Road Bikes have the highest sales, followed by Mountain Bikes and Touring Bikes.
  
-	**2.	Accessory Sales:**
+	2.	Accessory Sales:
 	•	Analyzed non-bike accessories such as Helmets, Jerseys, Gloves, and other items.
 	•	Created a bar chart visualization to show sales performance across accessory categories, identifying Helmets and Tires and Tubes as the top-selling accessory products.
  
-	**3.	Monthly Sales Trends:**
+	3.	Monthly Sales Trends:
 	•	Grouped data by month and year to analyze sales trends over time.
 	•	Created a line plot to highlight seasonal and annual fluctuations in bike sales, with peak sales observed towards the end of the year, particularly in December.
  
-	**4.	Sales by Country:**
+	4.	Sales by Country:
 	•	Analyzed total sales by country to understand geographical performance.
 	•	Visualized this data in a bar chart, showing that the United States has the highest sales, followed by France and Canada.
  
-	**5.	Visualizations:**
+	5.	Visualizations:
 	•	Multiple types of visualizations were created to effectively communicate findings, including:
 	•	Pie Chart: Distribution of sales across bike categories.
 	•	Bar Chart: Accessory sales by subcategory and total sales by country.
